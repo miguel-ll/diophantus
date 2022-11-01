@@ -12,4 +12,5 @@ x^3 + y^3 + z^3 = d
 ### Approximations
 
 e - 87/32
+
 pi - 22/7, 729/232
