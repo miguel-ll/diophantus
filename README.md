@@ -1,6 +1,6 @@
 # Diophantus
 
-A library for diophantine approximations?
+A library for diophantine analysis?
 
 ### Approximations
 
